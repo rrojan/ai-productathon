@@ -6,20 +6,20 @@
 
 ---
 
-## Goal:
-- Prepare team members for future projects where we have to build projects with AI Integration
+## Goals:
+- Prepare team for future projects where we have to build projects with AI Integration
 - Understand the new possibilities that AI brings us
-- Allow members to build and show new projects and make their own tech choices
+- Allow members to build and showcase new projects and make their own tech choices
 - Incentivize research and personal growth
 - Teambuilding & bonding
 
 ## Tracks:
-- **Impact to organization**
+- **Impact to Organization**
 - **Productivity** (Personal Productivity or Work productivity)
-- **AI for impact** (Create some positive impact in society any way you can with your product)
+- **AI for Impact** (Create some positive impact in society any way you can with your product)
 - **Devtools**
-- **AI for learning**
-- **Open track**
+- **AI for Learning**
+- **Open Track**
 
 ## Team formation:
 - 2 members with a synergizing skillset
@@ -30,16 +30,15 @@
 
 ## Judging:
 - Showcase & present your product at the end of the time period.
-- The winning team gets goodies (tbd) and *bragging rights*.
-- Let's not get too swept away with *vibe coding*, this is a learnathon as much as it is a hackathon
+- The winning team gets goodies (tbd) and *bragging rights* 🥳
+- Let's not get too swept away with *✨vibe coding✨*, this is a learnathon as much as it is a hackathon
 
 ## Criteria:
-- Proper AI Usage
-- Technical Feasibility
-- UX & Usability. We are known for our designs!
-- Relevance to industry and future trends
-- Real world use case (Practicality)
-- Understanding of problem
+- Proper utilization of AI
+- Real world impact & Practicality
+- Technical implementation
+- UX & Usability (We are known for our designs!)
+- Solution to problem
 
 ## Essential topics to look into:
 - Interfacing with AI:
@@ -60,11 +59,11 @@
 	
 - UI/UX for AI
 > - The most common UI to interface with AI is chat interfaces
-> - Other notable ways are through mobile apps, browser extensions, VSCode plugins, embedable chatbots, APIs, etc
+> - Other notable ways are through mediums like voice, user action recording, mobile apps, browser extensions, VSCode plugins, embedable chatbots, API-only, etc
 
 ## What we *are* doing
 - Building amazing products on top of existing solutions
 - Learning enough to adapt ourselves to this new turn in the market
 
 ## What we are *not* doing
-- Being AI Researchers / Scientists. We are engineers, we build stuff!
+- Being AI Researchers / Scientists. We are engineers, we build stuff. We solve real problems, for real people.
