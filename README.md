@@ -7,7 +7,7 @@
 ---
 
 ## Goals:
-- Prepare team for future projects where we have to build projects with AI Integration
+- Prepare team for future projects where we have to build products with AI Integration
 - Understand the new possibilities that AI brings us
 - Allow members to build and showcase new projects and make their own tech choices
 - Incentivize research and personal growth
@@ -49,7 +49,7 @@
 - Prompt Engineering
 > - Essential prompt engineering techniques to achieve your goal
 > - Essential concepts like X-shot prompting, providing context, providing examples, etc.
-> - Setting up guard rails
+> - Setting up guard rails.
 	
 - AI Ecosystem:
 > - Popular LLM platforms like ChatGPT, Gemini, Claude, grok, etc
@@ -59,7 +59,7 @@
 	
 - UI/UX for AI
 > - The most common UI to interface with AI is chat interfaces
-> - Other notable ways are through mediums like voice, user action recording, mobile apps, browser extensions, VSCode plugins, embedable chatbots, API-only, etc
+> - Other notable ways are through mediums like voice, user action recording, mobile apps, browser extensions, VSCode plugins, embedable chatbots, providing public APIs for other people to build apps on top of, etc
 
 ## What we *are* doing
 - Building amazing products on top of existing solutions
